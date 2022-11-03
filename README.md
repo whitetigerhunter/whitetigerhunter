@@ -1,12 +1,13 @@
-### <a href="https://www.freelancer.com/u/monathcorey">Markus Schuster</a> 👋
+### <a href="https://www.freelancer.com/u/mmarkusschuster7">Markus Schuster</a> 👋
 
 <h1 align="center">👋 Senior Web and Mobile developer</h1>
 
 😎 Trusted engineer with 5+ years of experience in Web and Mobile industry.
 
-- 🔭 Frontend: React.js, Vue.js, Next.js etc
-- 🌱 Backend : Laravel, Node, PHP etc
-- 👯 Blockchain : Etherieum, Solidity, Solana, Web3.js, DeFi etc
+- 🔭 Frontend: React.js, Vue.js, Next.js, Nuxt.js, TypeScript,  etc
+- 🌱 Backend :  Node.js/Express.js, Nest.js, Laravel, CodeIgniter, Python, Django, Flask, Ruby on Rails, Java Spring Boot, Java,
+JavaFX, Swing, C/C++, QT, Visual C++, C#, VB.NET etc
+- 👯 Mobile : Ios/Android, React Native, Kotlin, Flutter and Hybrid etc
 - 👨‍👩‍👧‍👦Skype ID: live:.cid.a957908e333a5a4a
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Acetobi0302&label=Profile%20views&color=0e75b6&style=flat" alt="Acetobi0302" /> </p>
