@@ -1,13 +1,13 @@
-### <a href="https://www.freelancer.com/u/monathcorey">Corey Monath</a> 👋
+### <a href="https://www.freelancer.com/u/monathcorey">Markus Schuster</a> 👋
 
-<h1 align="center">👋 Senior Blockchain and Frontend Engineer</h1>
+<h1 align="center">👋 Senior Web and Mobile developer</h1>
 
-😎 Trusted engineer with 5+ years of experience in blockchain industry.
+😎 Trusted engineer with 5+ years of experience in Web and Mobile industry.
 
 - 🔭 Frontend: React.js, Vue.js, Next.js etc
 - 🌱 Backend : Laravel, Node, PHP etc
 - 👯 Blockchain : Etherieum, Solidity, Solana, Web3.js, DeFi etc
-- 👨‍👩‍👧‍👦Skype ID: live:.cid.276f02dfbdbf2a07
+- 👨‍👩‍👧‍👦Skype ID: live:.cid.a957908e333a5a4a
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Acetobi0302&label=Profile%20views&color=0e75b6&style=flat" alt="Acetobi0302" /> </p>
 <p align="center" style = "size:16px;">
